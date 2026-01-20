@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Rohan Pandey
+  Aspiring Software Developer | Cybersecurity Enthusiast | Python Developer  
 
-<!--
-**Rohan-Sec/Rohan-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a motivated and detail-oriented engineering student with a strong interest in **software development and cybersecurity**.  
+I enjoy building practical projects that solve real-world problems and continuously improving my technical skills through hands-on learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Who Am I?
+
+- 🎓 Engineering student with a strong foundation in programming and problem-solving  
+- 🐍 Comfortable working with **Python** for development, automation, and security tools  
+- 🔐 Completed **Google Professional Cybersecurity Certificate**  
+- 💡 Passionate about learning how systems work — and how to secure them  
+- 📈 Actively preparing for **software developer and cybersecurity internship roles**
+
+---
+
+## 🔭 What I’m Currently Working On
+
+- 🛡️ Cybersecurity projects (network scanning, intrusion detection, security automation)  
+- 🧠 Strengthening **Python for interviews and real-world development**  
+- 🌐 Improving backend concepts (APIs, logic building, system design basics)  
+- 📚 Practicing DSA and coding problems
+
+---
+
+## 🛠️ Tools & Technologies
+
+### 💻 Programming & Development
+- Python
+- Java
+- HTML, CSS, JavaScript  
+- SQL  
+
+### 🔐 Cybersecurity
+- Network Scanning & Enumeration  
+- Basic Penetration Testing Concepts  
+- Security Automation using Python  
+
+### ⚙️ Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Linux 
+- Wireshark  
+- Nmap  
+
+---
+
+## 📫 How to Reach Me
+
+- 💼 **LinkedIn:** https://linkedin.com/in/rohan-pandey-
+- 📧 **Email:** rohanpandey05@outlook.com  
+- 🌐 **GitHub:** You’re already here 😊  
+
+---
+
+⭐ *Always open to learning, collaborating, and growing as a developer.*  
