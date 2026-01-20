@@ -33,11 +33,6 @@ I enjoy building practical projects that solve real-world problems and continuou
 - HTML, CSS, JavaScript  
 - SQL  
 
-### 🔐 Cybersecurity
-- Network Scanning & Enumeration  
-- Basic Penetration Testing Concepts  
-- Security Automation using Python  
-
 ### ⚙️ Tools & Platforms
 - Git & GitHub  
 - VS Code  
