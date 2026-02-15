@@ -18,10 +18,10 @@ Currently focused on blue team operations, detection engineering, and security a
 
 ## 🔭 What I’m Currently Working On
 
-- 🛡️ Cybersecurity projects (network scanning, intrusion detection, security automation)  
-- 🧠 Strengthening **Python for interviews and real-world development**  
-- 🌐 Improving backend concepts (APIs, logic building, system design basics)  
-- 📚 Practicing DSA and coding problems
+- 🛡️ Developing SOC-focused security labs to understand real-world attack and detection workflows  
+- 🧠 Enhancing Python skills for automation, scripting, and secure application development  
+- 🌐 Improving backend and authentication concepts to better understand system vulnerabilities   
+- ☁️ Learning cloud infrastructure basics with a focus on security and monitoring
 
 ---
 
@@ -58,5 +58,4 @@ Currently focused on blue team operations, detection engineering, and security a
 
 ⭐ Building real-world security skills one lab at a time.
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan-Sec&show_icons=true&theme=tokyonight)
 
