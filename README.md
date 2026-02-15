@@ -6,22 +6,24 @@ Currently focused on blue team operations, detection engineering, and security a
 
 ---
 
-## 👨‍💻 Who Am I?
+## 👨‍💻 Who I Am
 
-- 🎓 Engineering student with a strong foundation in programming and problem-solving  
-- 🐍 Comfortable working with **Python** for development, automation, and security tools  
-- 🔐 Completed **Google Professional Cybersecurity Certificate**  
-- 💡 Passionate about learning how systems work — and how to secure them  
-- 📈 Actively preparing for **software developer and cybersecurity internship roles**
+- 🎓 Engineering student with strong foundations in programming, networking, and operating systems  
+- 🛡️ Building hands-on experience in SOC operations, SIEM-based detection, and threat analysis  
+- ☁️ Transitioning into Cloud Security with a focus on monitoring, access control, and infrastructure protection  
+- 🐍 Skilled in Python for automation, scripting, and security tooling  
+- 🔐 Google Professional Cybersecurity Certificate holder  
+- 🚀 Committed to developing practical, real-world security skills through lab-based projects
 
 ---
 
 ## 🔭 What I’m Currently Working On
 
-- 🛡️ Developing SOC-focused security labs to understand real-world attack and detection workflows  
-- 🧠 Enhancing Python skills for automation, scripting, and secure application development  
-- 🌐 Improving backend and authentication concepts to better understand system vulnerabilities   
-- ☁️ Learning cloud infrastructure basics with a focus on security and monitoring
+- 🛡️ Developing SOC-focused detection labs using Windows, Kali, and Wazuh SIEM  
+- ☁️ Learning core Cloud Security concepts (IAM, logging, monitoring, secure architecture)  
+- 🧠 Advancing Python for security automation and cloud scripting  
+- 🌐 Strengthening backend and authentication concepts to understand modern attack surfaces  
+- 📊 Improving analytical thinking through structured DSA practice
 
 ---
 
