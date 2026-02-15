@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rohan Pandey
-  Aspiring Software Developer | Cybersecurity Enthusiast | Python Developer  
+  🛡️ Aspiring SOC Analyst | Cybersecurity Engineer | Python Developer   
 
-I’m a motivated and detail-oriented engineering student with a strong interest in **software development and cybersecurity**.  
-I enjoy building practical projects that solve real-world problems and continuously improving my technical skills through hands-on learning.
+I build hands-on security labs to simulate real-world attack scenarios and detect them using SIEM technologies.  
+Currently focused on blue team operations, detection engineering, and security automation.
 
 ---
 
@@ -31,14 +31,20 @@ I enjoy building practical projects that solve real-world problems and continuou
 - Python
 - Java
 - HTML, CSS, JavaScript  
-- SQL  
+- SQL
 
-### ⚙️ Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Linux 
-- Wireshark  
-- Nmap  
+### 🛡️ Security & Networking
+- Wazuh SIEM
+- Windows Event Log Analysis
+- Nmap
+- Wireshark
+- Linux (Kali & Ubuntu)
+- Network Segmentation & Lab Setup
+  
+### ⚙️ Tools
+- Git & GitHub
+- VS Code
+- VirtualBox
 
 ---
 
@@ -50,4 +56,7 @@ I enjoy building practical projects that solve real-world problems and continuou
 
 ---
 
-⭐ *Always open to learning, collaborating, and growing as a developer.*  
+⭐ Building real-world security skills one lab at a time.
+
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan-Sec&show_icons=true&theme=tokyonight)
+
