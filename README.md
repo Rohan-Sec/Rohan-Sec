@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rohan Pandey
-  🛡️ Aspiring SOC Analyst | Cybersecurity Engineer | Python Developer   
+  🛡️ SOC Analyst | Cybersecurity Engineer | Python Developer   
 
 I build hands-on security labs to simulate real-world attack scenarios and detect them using SIEM technologies.  
 Currently focused on blue team operations, detection engineering, and security automation.
